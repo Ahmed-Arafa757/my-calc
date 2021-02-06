@@ -1,0 +1,38 @@
+.width {
+  width: 70px;
+}
+
+table {
+
+  background-color: gray;
+  border: 5px solid black;
+  margin: 0;
+
+
+}
+
+.td {
+  font-family: comic sans ms;
+  text-align: center;
+  color: white;
+  background-color: rgb(110, 136, 240);
+  font-size: 15px;
+  
+ 
+}
+
+.ans {
+  width: 100px;
+  text-align: right;
+}
+
+.Answer {
+  width: 96%;
+}
+
+input:hover{
+  background-color: black;
+  color: white;
+}
+
+
